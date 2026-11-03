@@ -1,0 +1,4772 @@
+[
+  {
+    "q": "20 In Pirate Years1",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ryoma",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Ninja AF11",
+    "r": "Anju, Zushio"
+  },
+  {
+    "q": "Arts and Crafts",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Hadahda",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Imperial Bronze Piece, Sutlac\nReward of either Sutlac or one Imperial Bronze Piece."
+  },
+  {
+    "q": "A Boy's Dream",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ailbeche",
+    "z": "San d'Oria North",
+    "fame": "",
+    "desc": "Paladin AF2",
+    "r": "Gallant Leggings"
+  },
+  {
+    "q": "Got It All",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Tehf Kimasnayha",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Bibiki Seashell"
+  },
+  {
+    "q": "Olduum",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Dkhaaya",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Olduum Ring"
+  },
+  {
+    "q": "Such Sweet Sorrow",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Dabhuh",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Merrow No. 17's Locket"
+  },
+  {
+    "q": "A Craftsman's Work",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Miaux",
+    "z": "San d'Oria North",
+    "fame": "",
+    "desc": "Dragoon AF1",
+    "r": "Peregrine"
+  },
+  {
+    "q": "The Die Is Cast",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Ratihb",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Random Ring"
+  },
+  {
+    "q": "Fear of the Dark II",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Suldiran",
+    "z": "Al Zahbi",
+    "fame": "",
+    "desc": "",
+    "r": "200 gil"
+  },
+  {
+    "q": "A Moral Manifest?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Altar Room",
+    "fame": "",
+    "desc": "",
+    "r": "Gold Beastcoin, Tsoo's Headgear"
+  },
+  {
+    "q": "A Flash in the Pan",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Aquillina",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "100 gil"
+  },
+  {
+    "q": "Breaking Stones",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Horatius",
+    "z": "Bastok Markets",
+    "fame": "2",
+    "desc": "",
+    "r": "400 gil"
+  },
+  {
+    "q": "Brygid the Stylist Returns",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Brygid",
+    "z": "Bastok Markets",
+    "fame": "Unknown",
+    "desc": "Brygid Quest #2",
+    "r": "Aikido Gi, Cerise Doublet, Duende Cotehardie, Gaudy Harness, Glamor Jupon, Gloom Breastplate, Nimbus Doublet, Nokizaru Gi, Parade Cuirass, Rapparee Harness, Shikaree Aketon, Shinimusha Hara-Ate, Wyvern Mail\nOne piece is rewarded each time the quest is completed."
+  },
+  {
+    "q": "Brygid, The Stylist",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Brygid",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "Brygid Quest #1",
+    "r": "Gloves"
+  },
+  {
+    "q": "A Foreman's Best Friend",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Gudav",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Map of the Gusgen Mines"
+  },
+  {
+    "q": "Buckets Of Gold",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Foss",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "300 gil"
+  },
+  {
+    "q": "Father Figure",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Michea",
+    "z": "Bastok Markets",
+    "fame": "2",
+    "desc": "Goldsmith Quest #2",
+    "r": "2200 gil"
+  },
+  {
+    "q": "Gourmet",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Salimah",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "Variable gil reward"
+  },
+  {
+    "q": "Mom, The Adventurer?",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nbu Latteh",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "Nbu Latteh Quest #1",
+    "r": "100 gil\nReward of 100 gil if the letter is read; 200 if it isn't."
+  },
+  {
+    "q": "A Knight's Test",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Balasiel",
+    "z": "San d'Oria South",
+    "fame": "",
+    "desc": "Paladin Flag Quest #3",
+    "r": "Kite Shield\nGrants the ability to become a Paladin."
+  },
+  {
+    "q": "A Lady's Heart",
+    "t": "Mog House Exit",
+    "tag": "UNLOCK",
+    "npc": "Valah Molkot",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Grants the ability to exit from your Mog House in Bastok into any residential area in Bastok."
+  },
+  {
+    "q": "A Minstrel in Despair",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Mertaire",
+    "z": "Jeuno Lower",
+    "fame": "Any",
+    "desc": "Bard Flag Quest #2",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Stamp Hunt",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Arawn",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "Leather Gorget"
+  },
+  {
+    "q": "A New Dawn",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Jeuno Lower",
+    "fame": "",
+    "desc": "Beastmaster AF3",
+    "r": "Beast Trousers"
+  },
+  {
+    "q": "A Pose By Any Other Name",
+    "t": "General",
+    "tag": "",
+    "npc": "Angelica",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "Ancient Blood, Angelica's Autograph"
+  },
+  {
+    "q": "The Cold Light of Day",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Malene",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "The Curse Collector",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Zon-Fobun",
+    "z": "Bastok Markets",
+    "fame": "4",
+    "desc": "",
+    "r": "Poison Cesti"
+  },
+  {
+    "q": "The Elvaan Goldsmith",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Michea",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "Goldsmith Quest #1",
+    "r": "180 gil"
+  },
+  {
+    "q": "The Return Of The Adventurer",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Gwill",
+    "z": "Bastok Markets",
+    "fame": "3",
+    "desc": "Goldsmith Quest #3",
+    "r": "Cotton Headband"
+  },
+  {
+    "q": "The Signpost Marks the Spot",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Nbu Latteh",
+    "z": "Bastok Markets",
+    "fame": "2",
+    "desc": "Nbu Latteh Quest #2",
+    "r": "Linen Robe"
+  },
+  {
+    "q": "Drachenfall",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Black Mud",
+    "z": "Bastok Mines",
+    "fame": "2",
+    "desc": "",
+    "r": "2000 gil"
+  },
+  {
+    "q": "A Smudge On One's Record",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Hariga-Origa",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Optistery Book Quest #3",
+    "r": "3000 gil, Map of Fei'Yin"
+  },
+  {
+    "q": "A Squire's Test",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Balasiel",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "Paladin Flag Quest #1",
+    "r": "Spatha"
+  },
+  {
+    "q": "A Squire's Test II",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Balasiel",
+    "z": "San d'Oria South",
+    "fame": "2",
+    "desc": "Paladin Flag Quest #2",
+    "r": "Squire Certificate"
+  },
+  {
+    "q": "Fallen Comrades",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Pavvke",
+    "z": "Bastok Mines",
+    "fame": "2",
+    "desc": "",
+    "r": "550 gil"
+  },
+  {
+    "q": "A Taste of Honey",
+    "t": "General",
+    "tag": "",
+    "npc": "Qutiba",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Epicureans Quest #3",
+    "r": "Irmik Helvasi\nReward of Irmik Helvasi Cooking recipe."
+  },
+  {
+    "q": "Groceries",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Tami",
+    "z": "Bastok Mines",
+    "fame": "Any",
+    "desc": "",
+    "r": "10 gil, Rabbit Mantle\nVariable reward depending on the completion of the quest: either 10 gil, or a Rabbit Mantle."
+  },
+  {
+    "q": "A Thief In Norg!?",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Gilgamesh",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Samurai AF3",
+    "r": "Myochin Kabuto"
+  },
+  {
+    "q": "Hearts of Mythril",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Elki",
+    "z": "Bastok Mines",
+    "fame": "Any",
+    "desc": "Elki Quest #1",
+    "r": "Sitabaki"
+  },
+  {
+    "q": "Achieving True Power",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Shamarhaan",
+    "z": "Bastok Markets",
+    "fame": "",
+    "desc": "Puppetmaster Level Cap Quest (Level 70)",
+    "r": "Raises the level cap of the character to 75."
+  },
+  {
+    "q": "Acting In Good Faith",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Gantineux",
+    "z": "Windurst Waters",
+    "fame": "4",
+    "desc": "",
+    "r": "Scroll of Teleport-Mea"
+  },
+  {
+    "q": "Minesweeper",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Gerbaum",
+    "z": "Bastok Mines",
+    "fame": "Any",
+    "desc": "",
+    "r": "150 gil"
+  },
+  {
+    "q": "Against All Odds",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Corsair AF3",
+    "r": "Corsair's Tricorne"
+  },
+  {
+    "q": "Rivals",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Detzo",
+    "z": "Bastok Mines",
+    "fame": "3",
+    "desc": "",
+    "r": "Wolf Gorget"
+  },
+  {
+    "q": "All By Myself",
+    "t": "Escort",
+    "tag": "ESCORT",
+    "npc": "Marin",
+    "z": "Bastok Markets",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Altana's Sorrow",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Virnage",
+    "z": "Bastok Mines",
+    "fame": "4",
+    "desc": "",
+    "r": "Scroll of Teleport-Dem"
+  },
+  {
+    "q": "The Eleventh's Hour",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Elki",
+    "z": "Bastok Mines",
+    "fame": "3",
+    "desc": "Elki Quest #2",
+    "r": "Small Sword"
+  },
+  {
+    "q": "An Empty Vessel",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Waoud",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Blue Mage Flag Quest",
+    "r": "Mark of Zahak\nGrants the ability to become a Blue Mage."
+  },
+  {
+    "q": "An Explorer's Footsteps",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Abelard",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "800 gil, Map of the Crawlers' Nest\nReward of 800-10000 gil, depending on the monument. After 15 are turned in, the map is rewarded; the quest is completed when all 17 are turned in."
+  },
+  {
+    "q": "The Siren's Tear",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Wahid",
+    "z": "Bastok Mines",
+    "fame": "Any",
+    "desc": "",
+    "r": "150 gil"
+  },
+  {
+    "q": "Vengeful Wrath",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Goraow",
+    "z": "Bastok Mines",
+    "fame": "3",
+    "desc": "",
+    "r": "900 gil"
+  },
+  {
+    "q": "A Discerning Eye (Bastok)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Grin",
+    "z": "Bastok Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "As Thick as Thieves",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Nanaa Mihgo",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Thief AF2",
+    "r": "Rogue's Bonnet"
+  },
+  {
+    "q": "Atop the Highest Mountains",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Any",
+    "desc": "Level Cap (Level 55) Quest #2",
+    "r": "Raises the level cap of the character to 60."
+  },
+  {
+    "q": "Axe the Competition",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Axe weaponskill Decimation."
+  },
+  {
+    "q": "Ayame and Kaede",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Ensetsu",
+    "z": "Bastok Port",
+    "fame": "",
+    "desc": "Ninja Flag Quest",
+    "r": "Grants the ability to become a Ninja."
+  },
+  {
+    "q": "A Test of True Love",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Carmelo",
+    "z": "Bastok Port",
+    "fame": "6",
+    "desc": "Carmelo Quest #3",
+    "r": "10000 gil"
+  },
+  {
+    "q": "Beauty and the Galka",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Talib",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "Zinc Ore Quest #1",
+    "r": "Bronze Knife"
+  },
+  {
+    "q": "Bite The Dust",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Yazan",
+    "z": "Bastok Port",
+    "fame": "2",
+    "desc": "",
+    "r": "350 gil"
+  },
+  {
+    "q": "Beginnings",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Waoud",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Blue Mage AF1",
+    "r": "Immortal's Scimitar"
+  },
+  {
+    "q": "Behind the Smile",
+    "t": "General",
+    "tag": "",
+    "npc": "",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Mannequin Quest #2",
+    "r": "Mannequin Pumps"
+  },
+  {
+    "q": "Eco-Warrior (Bastok)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Raifa",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "5000 gil, Dragon Chronicles"
+  },
+  {
+    "q": "Fear Of Flying",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kurando",
+    "z": "Bastok Port",
+    "fame": "3",
+    "desc": "",
+    "r": "Black Silk Neckerchief"
+  },
+  {
+    "q": "Forever to Hold",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Qiji",
+    "z": "Bastok Port",
+    "fame": "2",
+    "desc": "Married Couple Quest #1",
+    "r": "300 gil"
+  },
+  {
+    "q": "Guest of Hauteur",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Powhatan",
+    "z": "Bastok Port",
+    "fame": "5",
+    "desc": "Powhatan Quest #2",
+    "r": "Targe"
+  },
+  {
+    "q": "Love and Ice",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Carmelo",
+    "z": "Bastok Port",
+    "fame": "5",
+    "desc": "Carmelo Quest #2",
+    "r": "Lamia Harp"
+  },
+  {
+    "q": "Lovers in the Dusk",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Carmelo",
+    "z": "Bastok Port",
+    "fame": "Unknown",
+    "desc": "Carmelo Quest #4",
+    "r": "Siren Flute"
+  },
+  {
+    "q": "Blade Of Darkness",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Gumbah",
+    "z": "Bastok Mines",
+    "fame": "",
+    "desc": "Dark Knight Flag Quest",
+    "r": "Grants the ability to become a Dark Knight."
+  },
+  {
+    "q": "Blade of Death",
+    "t": "General",
+    "tag": "",
+    "npc": "Gumbah",
+    "z": "Bastok Mines",
+    "fame": "3",
+    "desc": "",
+    "r": "Deathbringer"
+  },
+  {
+    "q": "Blade of Evil",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Beadeaux",
+    "fame": "",
+    "desc": "Dark Knight AF3",
+    "r": "Chaos Burgeonet"
+  },
+  {
+    "q": "Out of One's Shell",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Ronan",
+    "z": "Bastok Port",
+    "fame": "3",
+    "desc": "Quadav Quest #2",
+    "r": "Monk's Headgear"
+  },
+  {
+    "q": "Blood and Glory",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Shantotto",
+    "z": "Windurst Walls",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Staff weaponskill Retribution."
+  },
+  {
+    "q": "Past Perfect",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Evi",
+    "z": "Bastok Port",
+    "fame": "3",
+    "desc": "",
+    "r": "Scale Mail"
+  },
+  {
+    "q": "Bombs Away!",
+    "t": "General",
+    "tag": "",
+    "npc": "Buffalostalker Dodzbraz",
+    "z": "Uleguerand Range",
+    "fame": "",
+    "desc": "",
+    "r": "Shu'Meyo Salt"
+  },
+  {
+    "q": "Borghertz's Calling Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Summoner AF Hands",
+    "r": "Evoker's Bracers"
+  },
+  {
+    "q": "Borghertz's Chasing Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Ranger AF Hands",
+    "r": "Hunter's Bracers"
+  },
+  {
+    "q": "Borghertz's Dragon Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Dragon AF Hands",
+    "r": "Drachen Finger Gauntlets"
+  },
+  {
+    "q": "Borghertz's Harmonious Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Bard AF Hands",
+    "r": "Choral Cuffs"
+  },
+  {
+    "q": "Borghertz's Healing Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "White Mage AF Hands",
+    "r": "Healer's Mitts"
+  },
+  {
+    "q": "Borghertz's Loyal Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Samurai AF Hands",
+    "r": "Myochin Kote"
+  },
+  {
+    "q": "Borghertz's Lurking Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Ninja AF Hands",
+    "r": "Ninja Tekko"
+  },
+  {
+    "q": "Borghertz's Shadowy Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Dark Knight AF Hands",
+    "r": "Chaos Gauntlets"
+  },
+  {
+    "q": "Borghertz's Sneaky Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Thief AF Hands",
+    "r": "Rogue's Armlets"
+  },
+  {
+    "q": "Borghertz's Sorcerous Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Black Mage AF Hands",
+    "r": "Wizard's Gloves"
+  },
+  {
+    "q": "Borghertz's Stalwart Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Paladin AF Hands",
+    "r": "Gallant Gauntlets"
+  },
+  {
+    "q": "Borghertz's Striking Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Monk AF Hands",
+    "r": "Temple Gloves"
+  },
+  {
+    "q": "Borghertz's Vermillion Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Red Mage AF Hands",
+    "r": "Warlock's Gloves"
+  },
+  {
+    "q": "Borghertz's Warring Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Warrior AF Hands",
+    "r": "Fighter's Mufflers"
+  },
+  {
+    "q": "Borghertz's Wild Hands",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Guslam",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Beastmaster AF Hands",
+    "r": "Beast Gloves"
+  },
+  {
+    "q": "Shady Business",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Talib",
+    "z": "Bastok Port",
+    "fame": "Tenshodo 3",
+    "desc": "Zinc Ore Quest #2",
+    "r": "350 gil"
+  },
+  {
+    "q": "Breaking the Bonds of Fate",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Arrapago Reef",
+    "fame": "",
+    "desc": "Corsair Level Cap Quest (Level 70)",
+    "r": "Raises the level cap of the character to 75."
+  },
+  {
+    "q": "Silence of the Rams",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Paujean",
+    "z": "Bastok Port",
+    "fame": "Tenshodo 2",
+    "desc": "Monk Belt Quest #1",
+    "r": "Purple Belt"
+  },
+  {
+    "q": "The Quadav's Curse",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Corann",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "Quadav Quest #1",
+    "r": "Bronze Subligar"
+  },
+  {
+    "q": "The Stars Of Ifrit",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Agapito",
+    "z": "Bastok Port",
+    "fame": "4",
+    "desc": "Carmelo Quest #1",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Bugi Soden",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Ryoma",
+    "z": "Norg",
+    "fame": "Tenshodo Unknown",
+    "desc": "",
+    "r": "Grants the Katana weaponskill Blade: Ku."
+  },
+  {
+    "q": "The Usual",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Hilda",
+    "z": "Bastok Port",
+    "fame": "5",
+    "desc": "Helping Cid Quest #2",
+    "r": "Speed Bow"
+  },
+  {
+    "q": "Candle-making",
+    "t": "General",
+    "tag": "",
+    "npc": "Rouliette",
+    "z": "Jeuno Upper",
+    "fame": "4",
+    "desc": "",
+    "r": "Holy Candle"
+  },
+  {
+    "q": "Carbuncle Debacle",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Windurst Walls",
+    "fame": "",
+    "desc": "Summoner AF3",
+    "r": "Evoker's Horn"
+  },
+  {
+    "q": "The Wisdom Of Elders",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Benita",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Traveler's Hat"
+  },
+  {
+    "q": "Till Death Do Us Part",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Romilda",
+    "z": "Bastok Port",
+    "fame": "3",
+    "desc": "Married Couple Quest #2",
+    "r": "2000 gil"
+  },
+  {
+    "q": "Welcome to Bastok",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Powhatan",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "Powhatan Quest #1",
+    "r": "Spatha"
+  },
+  {
+    "q": "Chasing Quotas",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ceraulian",
+    "z": "San d'Oria Port",
+    "fame": "",
+    "desc": "Dragoon AF2",
+    "r": "Drachen Brais"
+  },
+  {
+    "q": "Wandering Souls",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Cape Teriggan",
+    "fame": "",
+    "desc": "",
+    "r": "Flagellant's Rope"
+  },
+  {
+    "q": "Child's Play",
+    "t": "General",
+    "tag": "",
+    "npc": "Karl",
+    "z": "Jeuno Port",
+    "fame": "3",
+    "desc": "",
+    "r": "Wonder Magic Set"
+  },
+  {
+    "q": "Chips",
+    "t": "General",
+    "tag": "",
+    "npc": "Cid",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "CCB Polymer"
+  },
+  {
+    "q": "Fit for a Prince",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Halver",
+    "z": "Chateau d'Oraguille",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Castor's Ring, Pollux's Ring"
+  },
+  {
+    "q": "Chocobo on the Loose!",
+    "t": "General",
+    "tag": "",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "",
+    "r": ""
+  },
+  {
+    "q": "Chocobo's Wounds",
+    "t": "General",
+    "tag": "UNLOCK",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "Any",
+    "desc": "",
+    "r": "Chocobo License"
+  },
+  {
+    "q": "The General's Secret",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Curilla",
+    "z": "Chateau d'Oraguille",
+    "fame": "2",
+    "desc": "",
+    "r": "Lynx Baghnakhs"
+  },
+  {
+    "q": "Class Reunion",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Windurst Walls",
+    "fame": "",
+    "desc": "Summoner AF2",
+    "r": "Evoker's Spats"
+  },
+  {
+    "q": "Cloak and Dagger",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Jakoh Wahcondalo",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Dagger weaponskill Evisceration."
+  },
+  {
+    "q": "Collect Tarut Cards",
+    "t": "General",
+    "tag": "",
+    "npc": "Chululu",
+    "z": "Jeuno Lower",
+    "fame": "2",
+    "desc": "Chululu Quest #1",
+    "r": "Grants the ability to have your compatability test told by Chululu."
+  },
+  {
+    "q": "Community Service",
+    "t": "General",
+    "tag": "",
+    "npc": "Zauko",
+    "z": "Jeuno Lower",
+    "fame": "Any",
+    "desc": "",
+    "r": "This quest only rewards Jeuno fame."
+  },
+  {
+    "q": "Beat Around the Bushin",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo Unknown",
+    "desc": "Monk Belt Quest #3",
+    "r": "Black Belt"
+  },
+  {
+    "q": "Cook's Pride",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Naruru",
+    "z": "Jeuno Lower",
+    "fame": "3",
+    "desc": "Merchant's Family Quest #1",
+    "r": "3000 gil, Mythril Ring"
+  },
+  {
+    "q": "Cook-a-roon?",
+    "t": "General",
+    "tag": "",
+    "npc": "Ququroon",
+    "z": "Nashmau",
+    "fame": "",
+    "desc": "",
+    "r": "Nashmau Stew"
+  },
+  {
+    "q": "Fistful of Fury",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Vola",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo Unknown",
+    "desc": "Monk Belt Quest #2",
+    "r": "Brown Belt"
+  },
+  {
+    "q": "Crest of Davoi",
+    "t": "General",
+    "tag": "",
+    "npc": "Baudin",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "Quest for Rank 5",
+    "r": "Crest of Davoi"
+  },
+  {
+    "q": "Hook, Line, and Sinker",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Omer",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "3000 gil"
+  },
+  {
+    "q": "Curses, Foiled A-Golem!?",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Shantotto",
+    "z": "Windurst Walls",
+    "fame": "4",
+    "desc": "Shantotto Quest #3",
+    "r": "Scroll of Warp II"
+  },
+  {
+    "q": "In the Mood For Love",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Odasel",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "4800 gil"
+  },
+  {
+    "q": "Never to Return",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kurou-Morou",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "Kurou-Morou Quest #2",
+    "r": "1200 gil, Garnet Ring"
+  },
+  {
+    "q": "Dark Legacy",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Raibaht",
+    "z": "Metalworks",
+    "fame": "",
+    "desc": "Dark Knight AF1",
+    "r": "Raven Scythe"
+  },
+  {
+    "q": "Dark Puppet",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Cid",
+    "z": "Metalworks",
+    "fame": "",
+    "desc": "Dark Knight AF2",
+    "r": "Chaos Sollerets"
+  },
+  {
+    "q": "Deal With Tenshodo",
+    "t": "General",
+    "tag": "",
+    "npc": "Garnev",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo Unknown",
+    "desc": "Clock Tower Sub-Quest",
+    "r": "Clock Tower Oil"
+  },
+  {
+    "q": "Delivering the Goods",
+    "t": "General",
+    "tag": "",
+    "npc": "Fochacha",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Epicureans Quest #1",
+    "r": "Imperial Bronze Piece\nReward of three Imperial Bronze Pieces."
+  },
+  {
+    "q": "Rubbish Day",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Chululu",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "Chululu Quest #2",
+    "r": "6000 gil, Chain Choker"
+  },
+  {
+    "q": "The Lost Cardian",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Panta-Putta",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "Merchant's Family Quest #2",
+    "r": "2100 gil, Two of Swords"
+  },
+  {
+    "q": "The Wonder Magic Set",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Panta-Putta",
+    "z": "Jeuno Lower",
+    "fame": "3",
+    "desc": "",
+    "r": "Mythril Earring"
+  },
+  {
+    "q": "Donate to Recycling",
+    "t": "General",
+    "tag": "",
+    "npc": "Romeo",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Wastebasket"
+  },
+  {
+    "q": "A Candlelight Vigil",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Ilumida",
+    "z": "Jeuno Upper",
+    "fame": "4",
+    "desc": "Ilumida Quest #1",
+    "r": "Flower Necklace"
+  },
+  {
+    "q": "A Chocobo's Tale",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nevela",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "5200 gil"
+  },
+  {
+    "q": "A Clock Most Delicate",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Jeuno Upper",
+    "fame": "5",
+    "desc": "Clock Tower Quest #1",
+    "r": "1200 gil, Engineer's Gloves"
+  },
+  {
+    "q": "A Reputation in Ruins",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Migliorozz",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "",
+    "r": "3500 gil"
+  },
+  {
+    "q": "Mirror, Mirror",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Luto Mewrilah",
+    "z": "Jeuno Upper",
+    "fame": "Any",
+    "desc": "NPC Fellow Quest #3",
+    "r": "Signal Pearl\nGrants the ability to summon an NPC Fellow."
+  },
+  {
+    "q": "Save My Sister",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Baudin",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "3000 gil, Holy Mace"
+  },
+  {
+    "q": "Elder Memories",
+    "t": "Subjob",
+    "tag": "UNLOCK",
+    "npc": "Isacio",
+    "z": "Selbina",
+    "fame": "",
+    "desc": "",
+    "r": "Grants the ability to choose a subjob."
+  },
+  {
+    "q": "The Clockmaster",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "Clock Tower Quest #3",
+    "r": "1200 gil, Time Hammer"
+  },
+  {
+    "q": "The Kind Cardian",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Panta-Putta",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "Merchant's Family Quest #3",
+    "r": "Green Cape"
+  },
+  {
+    "q": "Enveloped in Darkness",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Curilla",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "Red Mage AF2",
+    "r": "Warlock's Boots"
+  },
+  {
+    "q": "Equipped for All Occasions",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Arrapago Reef",
+    "fame": "",
+    "desc": "Corsair AF1",
+    "r": "Trump Gun"
+  },
+  {
+    "q": "Escort For Hire (Bastok)",
+    "t": "Escort",
+    "tag": "ESCORT",
+    "npc": "Trilok",
+    "z": "Bastok Port",
+    "fame": "6",
+    "desc": "",
+    "r": "10000 gil, Miratete's Memoirs"
+  },
+  {
+    "q": "Escort for Hire (San d'Oria)",
+    "t": "Escort",
+    "tag": "ESCORT",
+    "npc": "Rondipur",
+    "z": "San d'Oria North",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "10000 gil, Miratete's Memoirs"
+  },
+  {
+    "q": "Escort for Hire (Windurst)",
+    "t": "Escort",
+    "tag": "ESCORT",
+    "npc": "Dehn Harzhapan",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "10000 gil, Miratete's Memoirs"
+  },
+  {
+    "q": "Even More Gullible's Travels",
+    "t": "General",
+    "tag": "",
+    "npc": "Magriffon",
+    "z": "Kazham",
+    "fame": "7",
+    "desc": "Opo-opo Quest #2",
+    "r": "Rafflesia Nectar"
+  },
+  {
+    "q": "Everyone's Grudge",
+    "t": "General",
+    "tag": "",
+    "npc": "Magephaud",
+    "z": "Norg",
+    "fame": "Tenshodo Any",
+    "desc": "",
+    "r": "Clears all Tonberry hate, each time it is completed."
+  },
+  {
+    "q": "A Discerning Eye (Kazham)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Swift",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "Exit the Gambler",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Aurege",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "",
+    "r": "Map of King Ranperre's Tomb"
+  },
+  {
+    "q": "Expertise",
+    "t": "General",
+    "tag": "",
+    "npc": "Take",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #5",
+    "r": "Tableware Set"
+  },
+  {
+    "q": "A Question of Taste",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Jakoh Wahcondalo",
+    "z": "Kazham",
+    "fame": "6",
+    "desc": "Jakoh Wahcondalo Quest #1",
+    "r": "3000 gil"
+  },
+  {
+    "q": "Everyone's Grudging",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Jakoh Wahcondalo",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "Jakoh Wahcondalo Quest #2",
+    "r": "11000 gil"
+  },
+  {
+    "q": "Father and Son",
+    "t": "General",
+    "tag": "",
+    "npc": "Ailbeche",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "",
+    "r": "Willow Fishing Rod"
+  },
+  {
+    "q": "Greetings to the Guardian",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Hari Pakhroib",
+    "z": "Kazham",
+    "fame": "7",
+    "desc": "",
+    "r": "5000 gil"
+  },
+  {
+    "q": "Personal Hygiene",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Gatih Mijurabi",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "Opo-opo Quest #4",
+    "r": "Mithran Stone"
+  },
+  {
+    "q": "The Firebloom Tree",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Soun Abralah",
+    "z": "Kazham",
+    "fame": "6",
+    "desc": "",
+    "r": "5000 gil"
+  },
+  {
+    "q": "The Opo-opo and I",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "Opo-opo Quest #3",
+    "r": "Opo-opo Crown, Pamamas"
+  },
+  {
+    "q": "Finding Faults",
+    "t": "General",
+    "tag": "",
+    "npc": "Hishahma",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "??? Box\nReward of ??? Box if both questions are answered correctly; 200 Imperial Standing only one is answered correctly; no reward if both questions are answered incorrectly."
+  },
+  {
+    "q": "Fire and Brimstone",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Perih Vashai",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Ranger AF2",
+    "r": "Hunter's Beret"
+  },
+  {
+    "q": "Fisherman's Heart",
+    "t": "General",
+    "tag": "",
+    "npc": "Katsunaga",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Provides information about the character's fishing history."
+  },
+  {
+    "q": "You Call That a Knife?",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Mhebi Juhbily",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "7200 gil"
+  },
+  {
+    "q": "Waking the Beast",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "La Theine Plateau",
+    "fame": "",
+    "desc": "",
+    "r": "Carbuncle's Cuffs, Carbuncle's Pole, Garuda's Sickle, Ifrit's Bow, Leviathan's Couse, Ramuh's Mace, Shiva's Shotel, Titan's Baselarde"
+  },
+  {
+    "q": "Flower Child",
+    "t": "Mog House Exit",
+    "tag": "UNLOCK",
+    "npc": "Ojha Rhawash",
+    "z": "Windurst Walls",
+    "fame": "Any",
+    "desc": "",
+    "r": "Grants the ability to exit from your Mog House in Windurst into any residential area in Windurst."
+  },
+  {
+    "q": "Fly High",
+    "t": "General",
+    "tag": "",
+    "npc": "Ferchinne",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Mistmelt"
+  },
+  {
+    "q": "A Question of Faith",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ayame",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "Movalpolos Investigation Quest #2",
+    "r": "3000 gil"
+  },
+  {
+    "q": "Beadeaux Smog",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "High Bear",
+    "z": "Metalworks",
+    "fame": "4",
+    "desc": "",
+    "r": "Chakram"
+  },
+  {
+    "q": "Cid's Secret",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Cid",
+    "z": "Metalworks",
+    "fame": "4",
+    "desc": "Helping Cid Quest #1",
+    "r": "Ram Mantle"
+  },
+  {
+    "q": "Faded Promises",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Romualdo",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Fukuro"
+  },
+  {
+    "q": "Forge Your Destiny",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Jaucribaix",
+    "z": "Norg",
+    "fame": "Tenshodo None",
+    "desc": "Samurai Flag Quest",
+    "r": "Mumeito\nGrants the ability to become a Samurai."
+  },
+  {
+    "q": "From Saplings Grow",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Perih Vashai",
+    "z": "Windurst Woods",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Archery weaponskill Empyreal Arrow."
+  },
+  {
+    "q": "Hyper Active",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Raibaht",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "Raibaht Quest #2",
+    "r": "3000 gil"
+  },
+  {
+    "q": "Get the Picture",
+    "t": "General",
+    "tag": "",
+    "npc": "Balakaf",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Imperial Silver Piece"
+  },
+  {
+    "q": "Ghosts of the Past",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Oggbi",
+    "z": "Bastok Port",
+    "fame": "",
+    "desc": "Monk AF1",
+    "r": "Beat Cesti"
+  },
+  {
+    "q": "Girl in the Looking Glass",
+    "t": "General",
+    "tag": "",
+    "npc": "Luto Mewrilah",
+    "z": "Jeuno Upper",
+    "fame": "Any",
+    "desc": "NPC Fellow Quest #2",
+    "r": ""
+  },
+  {
+    "q": "Give a Moogle a Break",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Your Moogle",
+    "z": "Home City",
+    "fame": "3",
+    "desc": "Moogle House Storage Expansion #1",
+    "r": "Increases your character's Mog Safe by 10 slots, to a total of 60 spaces."
+  },
+  {
+    "q": "Give Peace a Chance",
+    "t": "General",
+    "tag": "",
+    "npc": "Mishhar",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Imperial Silver Piece"
+  },
+  {
+    "q": "Glyph Hanger",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Hariga-Origa",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "Map of the Horutoto Ruins"
+  },
+  {
+    "q": "Go! Go! Gobmuffin!",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Epinolle",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Map of Cape Riverne"
+  },
+  {
+    "q": "Out of the Depths",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ayame",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "Movalpolos Investigation Quest #1",
+    "r": "3200 gil\n1200 gil is the end-quest reward; 1000 gil is obtained from turning in key items."
+  },
+  {
+    "q": "Return to the Depths",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Ayame",
+    "z": "Metalworks",
+    "fame": "5",
+    "desc": "Movalpolos Investigation Quest #3",
+    "r": "3000 gil, Bowyer Ring"
+  },
+  {
+    "q": "Smoke on the Mountain",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Hungry Wolf",
+    "z": "Metalworks",
+    "fame": "Any",
+    "desc": "",
+    "r": "300 gil"
+  },
+  {
+    "q": "Stardust",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Baldric",
+    "z": "Metalworks",
+    "fame": "2",
+    "desc": "",
+    "r": "300 gil"
+  },
+  {
+    "q": "Teak Me to the Stars",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Raibaht",
+    "z": "Metalworks",
+    "fame": "3",
+    "desc": "Raibaht Quest #1",
+    "r": "2100 gil"
+  },
+  {
+    "q": "The Darksmith",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Mighty Fist",
+    "z": "Metalworks",
+    "fame": "3",
+    "desc": "",
+    "r": "8000 gil"
+  },
+  {
+    "q": "Growing Flowers",
+    "t": "Mog House Exit",
+    "tag": "UNLOCK",
+    "npc": "Kuu Mohzolhi",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "",
+    "r": "Grants the ability to exit from your Mog House in San d'Oria into any residential area in San d'Oria."
+  },
+  {
+    "q": "The Gustaberg Tour",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Izabele",
+    "z": "Metalworks",
+    "fame": "Any",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "Gullible's Travels",
+    "t": "General",
+    "tag": "",
+    "npc": "Magriffon",
+    "z": "Kazham",
+    "fame": "6",
+    "desc": "Opo-opo Quest #1",
+    "r": "This quest's only reward is fame, and fulfilling a prerequisite for later quests."
+  },
+  {
+    "q": "The Naming Game",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Raibaht",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "Raibaht Quest #3",
+    "r": "3600 gil\nGrants the ability to name the new airship shown in the Chains of Promathia chapter 5 mission; can rename with another Ordrynite."
+  },
+  {
+    "q": "Healing the Land",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Eperdur",
+    "z": "San d'Oria North",
+    "fame": "4",
+    "desc": "Eperdur Quest #1",
+    "r": "Scroll of Teleport-Holla"
+  },
+  {
+    "q": "A Potter's Preference",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nereus",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "2160 gil"
+  },
+  {
+    "q": "It's Raining Mannequins",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Fyi Chalmwoh",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Mannequin Quest #1",
+    "r": "Elvaan F Mannequin, Elvaan M Mannequin, Galka Mannequin, Hume F Mannequin, Hume M Mannequin, Mithra Mannequin, Tarutaru F Mannequin, Tarutaru M Mannequin\nReward of the mannequin of the character's race."
+  },
+  {
+    "q": "Her Majesty's Garden",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Chalvatot",
+    "z": "Chateau d'Oraguille",
+    "fame": "4",
+    "desc": "",
+    "r": "Map of the Northlands Area"
+  },
+  {
+    "q": "His Name is Valgeir",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #4",
+    "r": "Map of the Toraimarai Canal"
+  },
+  {
+    "q": "Hitting the Marquisate",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Nanaa Mihgo",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Thief AF3",
+    "r": "Rogue's Poulaines"
+  },
+  {
+    "q": "Hoist the Jelly, Roger",
+    "t": "General",
+    "tag": "",
+    "npc": "Maysoon",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Super Soup Pot"
+  },
+  {
+    "q": "Orlando's Antiques",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Orlando",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "100 gil\nReward of 100-900 gil, depending on which stack of items is turned in."
+  },
+  {
+    "q": "Recycling Rods",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Keshab-Menjab",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "1500 gil"
+  },
+  {
+    "q": "I Can Hear A Rainbow",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Windurst Walls",
+    "fame": "",
+    "desc": "Summoner Flag Quest",
+    "r": "Grants the ability to become a Summoner."
+  },
+  {
+    "q": "I'll Take the Big Box",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ryoma",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Ninja AF2",
+    "r": "Ninja Hakama"
+  },
+  {
+    "q": "Rycharde the Chef",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #1",
+    "r": "1500 gil"
+  },
+  {
+    "q": "The Clue",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #6",
+    "r": "3000 gil"
+  },
+  {
+    "q": "In Defiant Challenge",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Any",
+    "desc": "Level Cap (Level 50) Quest #1",
+    "r": "Raises the level cap of the character to 55."
+  },
+  {
+    "q": "Unending Chase",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #3",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Way of the Cook",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #2",
+    "r": "1500 gil"
+  },
+  {
+    "q": "An Understanding Overlord?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Monastic Cavern",
+    "fame": "",
+    "desc": "",
+    "r": "Gadzradd's Helm, Gold Beastcoin"
+  },
+  {
+    "q": "An Undying Pledge",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Stray Cloud",
+    "z": "Norg",
+    "fame": "Tenshodo Unknown",
+    "desc": "",
+    "r": "Light Buckler"
+  },
+  {
+    "q": "Inheritance",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Gumbah",
+    "z": "Bastok Mines",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Great Sword weaponskill Ground Strike."
+  },
+  {
+    "q": "Black Market",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Muzaffar",
+    "z": "Norg",
+    "fame": "Tenshodo Any",
+    "desc": "",
+    "r": "1500 gil\nVariable gil reward, depending on what is turned in: 4 Eastern Pottery is 2000; 4 Northern Fur is 1500; 4 Southern Mummy is 3000."
+  },
+  {
+    "q": "Mama Mia",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Mamaulabion",
+    "z": "Norg",
+    "fame": "Tenshodo 4",
+    "desc": "",
+    "r": "Evoker's Ring"
+  },
+  {
+    "q": "Intermediate Teamwork",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Vilatroire",
+    "z": "Ronfaure West",
+    "fame": "3",
+    "desc": "Teamwork Quest #2",
+    "r": "Scroll of Mage's Ballad"
+  },
+  {
+    "q": "A Generous General?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Oldton Movalpolos",
+    "fame": "",
+    "desc": "",
+    "r": "Choplix's Coif, Gold Beastcoin"
+  },
+  {
+    "q": "It's Not Your Vault",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Keal",
+    "z": "Norg",
+    "fame": "Tenshodo 3",
+    "desc": "",
+    "r": "Scroll of Tonko: Ichi"
+  },
+  {
+    "q": "Better the Demon You Know",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Koblakiq",
+    "z": "Oldton Movalpolos",
+    "fame": "",
+    "desc": "Koblakiq Quest #3",
+    "r": "Goblin Grenade"
+  },
+  {
+    "q": "Keeping Notes",
+    "t": "Mog House Exit",
+    "tag": "UNLOCK",
+    "npc": "Ahkk Jharcham",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Grants the ability to exit from your Mog House in Aht Urhgan Whitegate into the residential area in either Aht Urhgan Whitegate, or Al Zahbi."
+  },
+  {
+    "q": "Knight Stalker",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Rahal",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "Dragoon AF3",
+    "r": "Drachen Armet"
+  },
+  {
+    "q": "Knocking on Forbidden Doors",
+    "t": "General",
+    "tag": "",
+    "npc": "",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Mannequin Quest #3",
+    "r": "Grants the ability to set the pose of your mannequin."
+  },
+  {
+    "q": "Know One's Onions",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "2",
+    "desc": "Star Onion Brigade Quest #2",
+    "r": "Scroll of Blaze Spikes"
+  },
+  {
+    "q": "For the Birds",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Koblakiq",
+    "z": "Oldton Movalpolos",
+    "fame": "",
+    "desc": "Koblakiq Quest #2",
+    "r": "Jaguar Mantle"
+  },
+  {
+    "q": "Missionary Moblin",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Koblakiq",
+    "z": "Oldton Movalpolos",
+    "fame": "",
+    "desc": "Koblakiq Quest #1",
+    "r": "4000 gil"
+  },
+  {
+    "q": "Like a Shining Subligar",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Heiji",
+    "z": "Norg",
+    "fame": "Tenshodo 3",
+    "desc": "",
+    "r": "Scroll of Kurayami: Ichi"
+  },
+  {
+    "q": "Like Shining Leggings",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Heizo",
+    "z": "Norg",
+    "fame": "Tenshodo 3",
+    "desc": "",
+    "r": "Scroll of Dokumori: Ichi"
+  },
+  {
+    "q": "An Affable Adamantking?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Qulun Dome",
+    "fame": "",
+    "desc": "",
+    "r": "Da'Vhu's Barbut, Gold Beastcoin"
+  },
+  {
+    "q": "Chasing Dreams",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Zoriboh",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "Zoriboh Quest #1",
+    "r": "4000 gil, Venerer Ring"
+  },
+  {
+    "q": "Don't Forget the Antidote",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Edigey",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "1800 gil, Dotanuki\nReward of Dotanuki on the first completion, 1800 gil when repeated."
+  },
+  {
+    "q": "Luck of the Draw",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Ratihb",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Corsair Flag Quest",
+    "r": "Corsair Die\nGrants the ability to become a Corsair."
+  },
+  {
+    "q": "Indomitable Spirit",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Irmilant",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Ebisu Fishing Rod"
+  },
+  {
+    "q": "Lure of the Wildcat (Bastok)",
+    "t": "General",
+    "tag": "",
+    "npc": "Alib-Mufalib",
+    "z": "Bastok Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Blue Invitation Card"
+  },
+  {
+    "q": "Lure of the Wildcat (Jeuno)",
+    "t": "General",
+    "tag": "",
+    "npc": "Ajithaam",
+    "z": "Jeuno Upper",
+    "fame": "Any",
+    "desc": "",
+    "r": "White Invitation Card"
+  },
+  {
+    "q": "Lure of the Wildcat (San d'Oria)",
+    "t": "General",
+    "tag": "",
+    "npc": "Amutiyaal",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "Red Invitation Card"
+  },
+  {
+    "q": "Lure of the Wildcat (Windurst)",
+    "t": "General",
+    "tag": "",
+    "npc": "Ibwam",
+    "z": "Windurst Woods",
+    "fame": "Any",
+    "desc": "",
+    "r": "Green Invitation Card"
+  },
+  {
+    "q": "The Immortal Lu Shang",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Irmilant",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Lu Shang's Fishing Rod"
+  },
+  {
+    "q": "The Kuftal Tour",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Datta",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "8000 gil"
+  },
+  {
+    "q": "The Search for Goldmane",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Zoriboh",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "Zoriboh Quest #2",
+    "r": "3000 gil, Deluxe Carbine"
+  },
+  {
+    "q": "Making the Grade",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Fuepepe",
+    "z": "Windurst Waters",
+    "fame": "3",
+    "desc": "",
+    "r": "Scroll of Aspir"
+  },
+  {
+    "q": "Confessions of a Bellmaker",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Riverne - Site #A01",
+    "fame": "",
+    "desc": "",
+    "r": "Minstrel's Dagger"
+  },
+  {
+    "q": "Advanced Teamwork",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Vilatroire",
+    "z": "Ronfaure West",
+    "fame": "4",
+    "desc": "Teamwork Quest #3",
+    "r": "Horn Ring"
+  },
+  {
+    "q": "Mean Machine",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Unlucky Rat",
+    "z": "Metalworks",
+    "fame": "2",
+    "desc": "",
+    "r": "Scroll of Warp"
+  },
+  {
+    "q": "Messenger From Beyond",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Narcheral",
+    "z": "San d'Oria North",
+    "fame": "",
+    "desc": "White Mage AF1",
+    "r": "Blessed Hammer"
+  },
+  {
+    "q": "Methods Create Madness",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Balasiel",
+    "z": "San d'Oria South",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Polearm weaponskill Impulse Drive."
+  },
+  {
+    "q": "Introduction to Teamwork",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Vilatroire",
+    "z": "Ronfaure West",
+    "fame": "2",
+    "desc": "Teamwork Quest #1",
+    "r": "Shell Ring"
+  },
+  {
+    "q": "Beyond the Sun",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Maat's Cap"
+  },
+  {
+    "q": "Ducal Hospitality",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Taillegeas",
+    "z": "Ru'Lude Gardens",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "4000 gil"
+  },
+  {
+    "q": "Missionary Man",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Rauteinot",
+    "z": "Kazham",
+    "fame": "3",
+    "desc": "",
+    "r": "Scroll of Teleport-Yhoat"
+  },
+  {
+    "q": "Empty Memories",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Harith",
+    "z": "Ru'Lude Gardens",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Dia Wand, Hamayumi, Hysteroanima, Psychoanima, Stone Gorget, Terroanima"
+  },
+  {
+    "q": "Mithran Delicacies",
+    "t": "General",
+    "tag": "",
+    "npc": "Anguenet",
+    "z": "Carpenters' Landing",
+    "fame": "",
+    "desc": "",
+    "r": "Blackened Muddy Siredon"
+  },
+  {
+    "q": "Blackmail",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Dauperiat",
+    "z": "San d'Oria North",
+    "fame": "3",
+    "desc": "Castle Plans Quest #1",
+    "r": "900 gil"
+  },
+  {
+    "q": "Moogles in the Wild",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Your Moogle",
+    "z": "Home City",
+    "fame": "7",
+    "desc": "Moogle House Storage Expansion #3",
+    "r": "Increases your character's Mog Safe by 10 slots, to a total of 80 spaces."
+  },
+  {
+    "q": "Mysteries of Beadeaux I",
+    "t": "General",
+    "tag": "",
+    "npc": "Sattal-Mansal",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo None",
+    "desc": "",
+    "r": "Coruscant Rosary"
+  },
+  {
+    "q": "Mysteries of Beadeaux II",
+    "t": "General",
+    "tag": "",
+    "npc": "Sattal-Mansal",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo None",
+    "desc": "",
+    "r": "Black Matinee Necklace"
+  },
+  {
+    "q": "Navigating the Unfriendly Seas",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Arrapago Reef",
+    "fame": "",
+    "desc": "Corsair AF2",
+    "r": "Corsair's Culotte"
+  },
+  {
+    "q": "Fear of the Dark",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Secodiand",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "",
+    "r": "200 gil"
+  },
+  {
+    "q": "No Strings Attached",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Iruki-Waraki",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Puppetmaster Flag Quest",
+    "r": "Animator\nGrants the ability to become a Puppetmaster."
+  },
+  {
+    "q": "Northward",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Radeivepart",
+    "z": "Ru'Lude Gardens",
+    "fame": "4",
+    "desc": "",
+    "r": "Map of Castle Zvahl"
+  },
+  {
+    "q": "Nothing Matters",
+    "t": "General",
+    "tag": "",
+    "npc": "Koru-Moru",
+    "z": "Windurst Walls",
+    "fame": "9",
+    "desc": "Koru-Moru Quest #3",
+    "r": "10000 gil, Vile Elixir"
+  },
+  {
+    "q": "Old Wounds",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Curilla",
+    "z": "Chateau d'Oraguille",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Sword weaponskill Savage Blade."
+  },
+  {
+    "q": "Gates to Paradise",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Olbergieut",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "",
+    "r": "Cotton Cape"
+  },
+  {
+    "q": "Omens",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Waoud",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Blue Mage AF2",
+    "r": "Magus Charuqs"
+  },
+  {
+    "q": "One Good Deed?",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Chipmy-Popmy",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "1200 gil, Map of the Attohwa Chasm"
+  },
+  {
+    "q": "The Medicine Woman",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Abeaule",
+    "z": "San d'Oria North",
+    "fame": "3",
+    "desc": "Medicine Quest #2",
+    "r": "2100 gil"
+  },
+  {
+    "q": "The Setting Sun",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Vamorcote",
+    "z": "San d'Oria North",
+    "fame": "6",
+    "desc": "Castle Plans Quest #2",
+    "r": "10000 gil"
+  },
+  {
+    "q": "Operation Teatime",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Iruki-Waraki",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Puppetmaster AF2",
+    "r": "Puppetry Churidars"
+  },
+  {
+    "q": "Orastery Woes",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Kuroido-Moido",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Club weaponskill Black Halo."
+  },
+  {
+    "q": "The Trader in the Forest",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Abeaule",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "Medicine Quest #1",
+    "r": "Robe"
+  },
+  {
+    "q": "The Vicasque's Sermon",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Abioleget",
+    "z": "San d'Oria North",
+    "fame": "2",
+    "desc": "Cathedral Errand Quest #2",
+    "r": "Brass Ring"
+  },
+  {
+    "q": "Trouble at the Sluice",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Belgidiveau",
+    "z": "San d'Oria North",
+    "fame": "3",
+    "desc": "Novalmauge Quest #2",
+    "r": "Heavy Axe"
+  },
+  {
+    "q": "Over the Hills and Far Away",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Antreneau",
+    "z": "San d'Oria Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Map of the Uleguerand Range"
+  },
+  {
+    "q": "Undying Flames",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Pagisalis",
+    "z": "San d'Oria North",
+    "fame": "2",
+    "desc": "",
+    "r": "Friar's Rope"
+  },
+  {
+    "q": "Painful Memory",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Mertaire",
+    "z": "Jeuno Lower",
+    "fame": "",
+    "desc": "Bard AF1",
+    "r": "Paper Knife"
+  },
+  {
+    "q": "Paradise, Salvation, and Maps",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Nivorajean",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Map of Sacrarium"
+  },
+  {
+    "q": "Unexpected Treasure",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Morunaude",
+    "z": "San d'Oria North",
+    "fame": "4",
+    "desc": "",
+    "r": "12000 gil"
+  },
+  {
+    "q": "Past Reflections",
+    "t": "General",
+    "tag": "",
+    "npc": "Luto Mewrilah",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "NPC Fellow Upgrade #1",
+    "r": "Strengthens the bonds between you and your adventuring fellow."
+  },
+  {
+    "q": "Path of the Beastmaster",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Beastmaster Flag Quest #2",
+    "r": "Grants the ability to become a Beastmaster."
+  },
+  {
+    "q": "Warding Vampires",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Maloquedil",
+    "z": "San d'Oria North",
+    "fame": "3",
+    "desc": "",
+    "r": "900 gil"
+  },
+  {
+    "q": "Peace for the Spirit",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Curilla",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "Red Mage AF3",
+    "r": "Warlock's Chapeau"
+  },
+  {
+    "q": "Waters of the Cheval",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Miageau",
+    "z": "San d'Oria North",
+    "fame": "Any",
+    "desc": "Cathedral Errand Quest #1",
+    "r": "Wing Pendant"
+  },
+  {
+    "q": "A Discerning Eye (San d'Oria)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Eddy",
+    "z": "San d'Oria Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "Pieueje's Decision",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Narcheral",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "White Mage AF3",
+    "r": "Healer's Briault"
+  },
+  {
+    "q": "Prelude of Black and White",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Narcheral",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "White Mage AF2",
+    "r": "Healer's Duckbills"
+  },
+  {
+    "q": "Pretty Little Things",
+    "t": "Mog House Exit",
+    "tag": "UNLOCK",
+    "npc": "Zona Shodhun",
+    "z": "Jeuno Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Grants the ability to exit from your Mog House in Jeuno into any area in Jeuno."
+  },
+  {
+    "q": "Promotion: Corporal",
+    "t": "General",
+    "tag": "",
+    "npc": "Naja Salaheem",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Aht Urghan Rank Promotion Quest #4",
+    "r": ""
+  },
+  {
+    "q": "Promotion: Lance Corporal",
+    "t": "General",
+    "tag": "",
+    "npc": "Naja Salaheem",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Aht Urghan Rank Promotion Quest #3",
+    "r": ""
+  },
+  {
+    "q": "Promotion: Private First Class",
+    "t": "General",
+    "tag": "",
+    "npc": "Naja Salaheem",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Aht Urghan Rank Promotion Quest #1",
+    "r": ""
+  },
+  {
+    "q": "Promotion: Superior Private",
+    "t": "General",
+    "tag": "",
+    "npc": "Naja Salaheem",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Aht Urghan Rank Promotion Quest #2",
+    "r": ""
+  },
+  {
+    "q": "Puppetmaster Blues",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Iruki-Waraki",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Puppetmaster AF3",
+    "r": "Puppetry Taj"
+  },
+  {
+    "q": "A Job for the Consortium",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Portaure",
+    "z": "San d'Oria Port",
+    "fame": "Tenshodo Unknown",
+    "desc": "Consortium Quest #2",
+    "r": "1000 gil"
+  },
+  {
+    "q": "Recollections",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Chumimi",
+    "z": "Heavens Tower",
+    "fame": "",
+    "desc": "Black Mage AF2",
+    "r": "Wizard's Sabots"
+  },
+  {
+    "q": "A Taste for Meat",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Thierride",
+    "z": "San d'Oria Port",
+    "fame": "3",
+    "desc": "Rusty Pub Quest #1",
+    "r": "150 gil, Grilled Hare"
+  },
+  {
+    "q": "Flyers for Regine",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Regine",
+    "z": "San d'Oria Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "440 gil"
+  },
+  {
+    "q": "Lufet's Lake Salt",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nogelle",
+    "z": "San d'Oria Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "600 gil"
+  },
+  {
+    "q": "Riding on the Clouds",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Any",
+    "desc": "Level Cap (Level 65) Quest #4",
+    "r": "Raises the level cap of the character to 70."
+  },
+  {
+    "q": "The Brugaire Consortium",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Fontoumant",
+    "z": "San d'Oria Port",
+    "fame": "Tenshodo Any",
+    "desc": "Consortium Quest #1",
+    "r": "Lauan Shield"
+  },
+  {
+    "q": "Rock Bottom",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Mount Zhayolm",
+    "fame": "",
+    "desc": "",
+    "r": "Map of Mount Zhayolm"
+  },
+  {
+    "q": "The Competition",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Joulet",
+    "z": "San d'Oria Port",
+    "fame": "Any",
+    "desc": "Alternate of 'The Rivalry'",
+    "r": "10 gil, Lu Shang's Fishing Rod\nThe 10 gil is rewarded every time a Moat Carp is turned in; the rod is the final reward, once 10,000 Moat Carp have been turned in."
+  },
+  {
+    "q": "The Dismayed Customer",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Gulemont",
+    "z": "San d'Oria Port",
+    "fame": "2",
+    "desc": "",
+    "r": "560 gil"
+  },
+  {
+    "q": "The Pickpocket",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Miene",
+    "z": "San d'Oria Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Light Axe"
+  },
+  {
+    "q": "The Rivalry",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Gallijaux",
+    "z": "San d'Oria Port",
+    "fame": "Any",
+    "desc": "Alternate of 'The Competition'",
+    "r": "10 gil, Lu Shang's Fishing Rod\nThe 10 gil is rewarded every time a Moat Carp is turned in; the rod is the final reward, once 10,000 Moat Carp have been turned in."
+  },
+  {
+    "q": "Thick Shells",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Vounebariont",
+    "z": "San d'Oria Port",
+    "fame": "2",
+    "desc": "",
+    "r": "750 gil"
+  },
+  {
+    "q": "Save My Son",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Jeuno Lower",
+    "fame": "",
+    "desc": "Beastmaster Flag Quest #1",
+    "r": "2100 gil, Beast Whistle"
+  },
+  {
+    "q": "Save the Clock Tower",
+    "t": "General",
+    "tag": "",
+    "npc": "Derrick",
+    "z": "Jeuno Lower",
+    "fame": "Unknown",
+    "desc": "Clock Tower Quest #2",
+    "r": ""
+  },
+  {
+    "q": "A Purchase of Arms",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Helbort",
+    "z": "San d'Oria South",
+    "fame": "3",
+    "desc": "",
+    "r": "Elm Staff"
+  },
+  {
+    "q": "Scattered into Shadow",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Beastmaster AF2",
+    "r": "Beast Gaiters"
+  },
+  {
+    "q": "A Sentry's Peril",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Glenne",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "Bronze Subligar"
+  },
+  {
+    "q": "Searching For the Right Words",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Ilumida",
+    "z": "Jeuno Upper",
+    "fame": "Unknown",
+    "desc": "Ilumida Quest #2",
+    "r": "3000 gil, Scroll of Sleepga II"
+  },
+  {
+    "q": "Secret of the Damp Scroll",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Shivivi",
+    "z": "Norg",
+    "fame": "Tenshodo 4",
+    "desc": "",
+    "r": "Scroll of Jubaku: Ichi"
+  },
+  {
+    "q": "Secrets of Ovens Lost",
+    "t": "General",
+    "tag": "",
+    "npc": "Jonette",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Taznavian Cuisine Quest #2",
+    "r": "Miratete's Memoirs"
+  },
+  {
+    "q": "A Timely Visit",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Deraquien",
+    "z": "San d'Oria South",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Medieval Collar"
+  },
+  {
+    "q": "Sharpening the Sword",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ailbeche",
+    "z": "San d'Oria North",
+    "fame": "",
+    "desc": "Paladin AF1",
+    "r": "Honor Sword"
+  },
+  {
+    "q": "Shattering Stars",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Any",
+    "desc": "Level Cap (Level 70) Quest #5",
+    "r": "Raises the level cap of the character to 75."
+  },
+  {
+    "q": "Shoot First, Ask Questions Later",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Cid",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Marksmanship weaponskill Detonator."
+  },
+  {
+    "q": "Black Tiger Skins",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Hanaa Punaa",
+    "z": "San d'Oria South",
+    "fame": "3",
+    "desc": "Hanaa Punaa Quest #3",
+    "r": "Tiger Stole"
+  },
+  {
+    "q": "Distant Loyalties",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Femitte",
+    "z": "San d'Oria South",
+    "fame": "4",
+    "desc": "",
+    "r": "White Cape"
+  },
+  {
+    "q": "Sin Hunting",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Perih Vashai",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Ranger AF1",
+    "r": "Sniping Bow"
+  },
+  {
+    "q": "Eco-Warrior (San d'Oria)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Norejaie",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "5000 gil, Dragon Chronicles"
+  },
+  {
+    "q": "Grave Concerns",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Andecia",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "560 gil"
+  },
+  {
+    "q": "Grimy Signposts",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Maugie",
+    "z": "San d'Oria South",
+    "fame": "2",
+    "desc": "",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Sorcery of the North",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Eperdur",
+    "z": "San d'Oria North",
+    "fame": "4",
+    "desc": "Eperdur Quest #2",
+    "r": "Scroll of Teleport-Vahzl"
+  },
+  {
+    "q": "Lizard Skins",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Hanaa Punaa",
+    "z": "San d'Oria South",
+    "fame": "2",
+    "desc": "Hanaa Punaa Quest #2",
+    "r": "Lizard Gloves"
+  },
+  {
+    "q": "Souls in Shadow",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Novalmauge",
+    "z": "Bostaunieux Oubliette",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Scythe weaponskill Spiral Hell."
+  },
+  {
+    "q": "Spice Gals",
+    "t": "General",
+    "tag": "",
+    "npc": "Rouva",
+    "z": "San d'Oria South",
+    "fame": "Unknown",
+    "desc": "Taznavian Cuisine Quest #1",
+    "r": "Miratete's Memoirs"
+  },
+  {
+    "q": "Rosel the Armorer",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Rosel",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "200 gil\nReward of 100-200 gil, depending on whether the proper prince is named."
+  },
+  {
+    "q": "Signed in Blood",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Sobane",
+    "z": "San d'Oria South",
+    "fame": "Unknown",
+    "desc": "Sobane Quest #1",
+    "r": "3500 gil, Cunning Earring"
+  },
+  {
+    "q": "Sleepless Nights",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Paouala",
+    "z": "San d'Oria South",
+    "fame": "2",
+    "desc": "",
+    "r": "5000 gil"
+  },
+  {
+    "q": "Starting a Flame",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Legata",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "100 gil"
+  },
+  {
+    "q": "Stop Your Whining",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Washu",
+    "z": "Norg",
+    "fame": "Tenshodo 4",
+    "desc": "",
+    "r": "Scroll of Hojo: Ichi"
+  },
+  {
+    "q": "Tea With a Tonberry?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Sobane",
+    "z": "San d'Oria South",
+    "fame": "Unknown",
+    "desc": "Sobane Quest #2",
+    "r": "Willpower Torque"
+  },
+  {
+    "q": "The Merchant's Bidding",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Parvipon",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "",
+    "r": "120 gil"
+  },
+  {
+    "q": "The Seamstress",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Hanaa Punaa",
+    "z": "San d'Oria South",
+    "fame": "Any",
+    "desc": "Hanaa Punaa Quest #1",
+    "r": "Leather Gloves"
+  },
+  {
+    "q": "The Sweetest Things",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Raimbroy",
+    "z": "San d'Oria South",
+    "fame": "2",
+    "desc": "",
+    "r": "400 gil"
+  },
+  {
+    "q": "Tiger's Teeth",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Taumila",
+    "z": "San d'Oria South",
+    "fame": "3",
+    "desc": "",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Tenshodo Membership",
+    "t": "General",
+    "tag": "UNLOCK",
+    "npc": "Ghebi Damomohe",
+    "z": "Jeuno Lower",
+    "fame": "Tenshodo None",
+    "desc": "",
+    "r": "Tenshodo Member's Card"
+  },
+  {
+    "q": "To Cure a Cough",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Amaura",
+    "z": "San d'Oria South",
+    "fame": "3",
+    "desc": "Medicine Quest #3",
+    "r": "3000 gil"
+  },
+  {
+    "q": "Soul Searching",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Sanctuary of Zi'Tah",
+    "fame": "",
+    "desc": "",
+    "r": "Bat Earring"
+  },
+  {
+    "q": "Cargo",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Vuntar",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "800 gil\nReward of 800-3000 gil, depending on which Rolanberry is turned in."
+  },
+  {
+    "q": "Inside the Belly",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Zaldon",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "Selbina Fishing Quest #4",
+    "r": "10 gil, Ancient Sword, Blue Rock, Brigand's Chart, Broken Halcyon Rod, Broken Hume Rod, Cuir Highboots, Darksteel Ore, Drill Calamary, Dwarf Pugil, Earth Wand, Green Rock, Mercurial Sword, Opal Silk, Philosopher's Stone, Pirate's Chart, Saber Shoot, Trident, Turquoise Ring, Twinthread\nReward of 10-800 gil OR an item, based on the fish turned in. Random chance decides whether gil or the item is rewarded."
+  },
+  {
+    "q": "The Antique Collector",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Imasuke",
+    "z": "Jeuno Port",
+    "fame": "4",
+    "desc": "",
+    "r": "Map of Delkfutt's Tower"
+  },
+  {
+    "q": "The Bare Bones",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Degenhard",
+    "z": "Bastok Markets",
+    "fame": "Any",
+    "desc": "",
+    "r": "Map of the Dangruf Wadi"
+  },
+  {
+    "q": "The Basics",
+    "t": "General",
+    "tag": "",
+    "npc": "Rycharde",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "Rycharde Quest #7",
+    "r": "Tea Set"
+  },
+  {
+    "q": "The Beast Within",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Blue Mage Level Cap Quest (Level 70)",
+    "r": "Raises the level cap of the character to 75."
+  },
+  {
+    "q": "The Big One",
+    "t": "Escort",
+    "tag": "ESCORT",
+    "npc": "Travonce",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Dragon Chronicles, Glass Fiber Fishing Rod, Sinking Minnow"
+  },
+  {
+    "q": "Only the Best",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Melyon",
+    "z": "Selbina",
+    "fame": "Any",
+    "desc": "",
+    "r": "100 gil\nReward of 100-600 gil, depending on the items turned in."
+  },
+  {
+    "q": "Test My Mettle",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Devean",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Gil reward varies based on how much you bet, assuming you win."
+  },
+  {
+    "q": "The Circle of Time",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Imasuke",
+    "z": "Jeuno Port",
+    "fame": "",
+    "desc": "Bard AF3",
+    "r": "Choral Justaucorps"
+  },
+  {
+    "q": "The Gift",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Oswald",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "Selbina Fishing Quest #2",
+    "r": "Sleep Dagger"
+  },
+  {
+    "q": "The Real Gift",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Oswald",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "Selbina Fishing Quest #3",
+    "r": "Glass Fiber Fishing Rod"
+  },
+  {
+    "q": "Under the Sea",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Oswald",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "Selbina Fishing Quest #1",
+    "r": "Amber Earring"
+  },
+  {
+    "q": "Divine Might",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Shrine of Ru'Avitau",
+    "fame": "",
+    "desc": "",
+    "r": "Abyssal Earring, Beastly Earring, Bushinomimi, Knight's Earring, Suppanomimi\nReward of one of the earrings."
+  },
+  {
+    "q": "The Crimson Trial",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Sharzalion",
+    "z": "San d'Oria South",
+    "fame": "",
+    "desc": "Red Mage AF1",
+    "r": "Fencing Degen"
+  },
+  {
+    "q": "A Bitter Past",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Frescheque",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Yinyang Lorgnette"
+  },
+  {
+    "q": "A Hard Day's Knight",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Quelveuiat",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Elderly Pursuits",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Despachiaire",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Taznavian Cuisine Quest #3",
+    "r": "Elegant Ribbon"
+  },
+  {
+    "q": "In Search of the Truth",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Tressia",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Gramary Cape"
+  },
+  {
+    "q": "The Doorman",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Phara",
+    "z": "Bastok Mines",
+    "fame": "",
+    "desc": "Warrior AF1",
+    "r": "Razor Axe"
+  },
+  {
+    "q": "In the Name of Science",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Yurim",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Anrin Obi, Aqua Gorget, Breeze Gorget, Dorin Obi, Flame Gorget, Furin Obi, Hyorin Obi, Karin Obi, Korin Obi, Rairin Obi, Relaxing Earring, Sanative Earring, Soil Gorget, Suirin Obi\nOne of the level 72 Gorgets, or level 71 Obi, or one of the two earrings, each time the quest is completed."
+  },
+  {
+    "q": "Petals for Parelbriaux",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Ondieulix",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Powerful Rope"
+  },
+  {
+    "q": "The Fanged One",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "Perih Vashai",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Ranger Flag Quest",
+    "r": "320 gil, Ranger's Necklace\nGrants the ability to become a Ranger."
+  },
+  {
+    "q": "Requiem of Sin",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Despachiaire",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Sin Hunter Rematch Quest #2",
+    "r": "Cassia Lumber, Dragon Bone, Eltoro Leather, Galateia, Philosopher's Stone, Phoenix Feather, Viridian Urushi, X's Knife, Y's Scythe, Z's Trident"
+  },
+  {
+    "q": "The First Meeting",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Oggbi",
+    "z": "Bastok Port",
+    "fame": "",
+    "desc": "Monk AF2",
+    "r": "Temple Gaiters"
+  },
+  {
+    "q": "Tango With a Tracker",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Despachiaire",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "Sin Hunter Rematch Quest #1",
+    "r": "10000 gil"
+  },
+  {
+    "q": "The Call of the Sea",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Anteurephiaux",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Memento Muffler"
+  },
+  {
+    "q": "The Gobbiebag Part I",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "2",
+    "desc": "Gobbiebag Quest #1",
+    "r": "Raises your character's inventory by 5, to a total of 35 spaces."
+  },
+  {
+    "q": "The Gobbiebag Part II",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "4",
+    "desc": "Gobbiebag Quest #2",
+    "r": "Raises your character's inventory by 5, to a total of 40 spaces."
+  },
+  {
+    "q": "The Gobbiebag Part III",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "5",
+    "desc": "Gobbiebag Quest #3",
+    "r": "Raises your character's inventory by 5, to a total of 45 spaces."
+  },
+  {
+    "q": "The Gobbiebag Part IV",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "5",
+    "desc": "Gobbiebag Quest #4",
+    "r": "Raises your character's inventory by 5, to a total of 50 spaces."
+  },
+  {
+    "q": "The Gobbiebag Part V",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "6",
+    "desc": "Gobbiebag Quest #5",
+    "r": "Raises your character's inventory by 5, to a total of 55 spaces."
+  },
+  {
+    "q": "The Gobbiebag Part VI",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Bluffnix",
+    "z": "Jeuno Lower",
+    "fame": "6",
+    "desc": "Gobbiebag Quest #6",
+    "r": "Raises your character's inventory by 5, to a total of 60 spaces."
+  },
+  {
+    "q": "The Goblin Tailor",
+    "t": "General",
+    "tag": "",
+    "npc": "Guttrix",
+    "z": "Jeuno Lower",
+    "fame": "2",
+    "desc": "",
+    "r": ""
+  },
+  {
+    "q": "Uninvited Guests",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Justinius",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Adaman Ore, Aluminum Ore, Armoire, Assault Breastplate, Bison Steak, Bream Risotto, Cloud Evoker, Crimson Jelly, Dragon Bone, Elm Log, Mannequin Body, Mannequin Head, Mannequin Legs, Miratete's Memoirs, Mushroom Risotto, Orichalcum Ore, Oversized Fang, Tavnazian Salad, Tiger Eye, Unicorn Horn\nReward of one of the items, each time the quest is completed."
+  },
+  {
+    "q": "The Holy Crest",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "San d'Oria North",
+    "fame": "",
+    "desc": "Dragoon Flag Quest",
+    "r": "Grants the ability to become a Dragoon."
+  },
+  {
+    "q": "X Marks the Spot",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Despachiaire",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "4000 gil"
+  },
+  {
+    "q": "A Discerning Eye (Windurst)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Pygmalion",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "500 gil"
+  },
+  {
+    "q": "All at Sea",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Paytah",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Dhalmel Mantle, Leather Ring"
+  },
+  {
+    "q": "Catch It If You Can!",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ohruru",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "1000 gil\nReward of 1000-1500 gil depending on the ailment: 1000 for Silence, 1200 for Curse, 1500 for Plague."
+  },
+  {
+    "q": "Crying Over Onions",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "6",
+    "desc": "Star Onion Brigade Quest #5",
+    "r": "Star Necklace"
+  },
+  {
+    "q": "Inspector's Gadget!",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "3",
+    "desc": "Star Onion Brigade Quest #3",
+    "r": "Heko Obi"
+  },
+  {
+    "q": "The Missing Piece",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Alfesar",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Scroll of Teleport-Altep"
+  },
+  {
+    "q": "The Moogle's Picnic!",
+    "t": "Inventory & Storage",
+    "tag": "UNLOCK",
+    "npc": "Your Moogle",
+    "z": "Home City",
+    "fame": "5",
+    "desc": "Moogle House Storage Expansion #2",
+    "r": "Increases your character's Mog Safe by 10 slots, to a total of 70 spaces."
+  },
+  {
+    "q": "The Moonlit Path",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Leepe-Hoppe",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "15000 gil, Ancients' Key, Fenrir's Cape, Fenrir's Earring, Fenrir's Stone, Fenrir's Torque\nReward is either: one of the items listed; 15000 gil; or the ability to summon Fenrir."
+  },
+  {
+    "q": "Making Amends",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Hakkuru-Rinkuru",
+    "z": "Windurst Port",
+    "fame": "2",
+    "desc": "Orastery Quest #1",
+    "r": "1500 gil"
+  },
+  {
+    "q": "The Old Lady",
+    "t": "Subjob",
+    "tag": "UNLOCK",
+    "npc": "Vera",
+    "z": "Mhaura",
+    "fame": "",
+    "desc": "",
+    "r": "Grants the ability to choose a subjob."
+  },
+  {
+    "q": "The Old Monument",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Jeuno Lower",
+    "fame": "Any",
+    "desc": "Bard Flag Quest #1",
+    "r": ""
+  },
+  {
+    "q": "Making Amens!",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kuroido-Moido",
+    "z": "Windurst Port",
+    "fame": "4",
+    "desc": "Orastery Quest #2",
+    "r": "6000 gil"
+  },
+  {
+    "q": "The Path of the Bard",
+    "t": "Advanced Job",
+    "tag": "UNLOCK",
+    "npc": "",
+    "z": "Jeuno Lower",
+    "fame": "Any",
+    "desc": "Bard Flag Quest #3",
+    "r": "3000 gil\nGrants the ability to become a Bard."
+  },
+  {
+    "q": "Onion Rings",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "4",
+    "desc": "Star Onion Brigade Quest #4",
+    "r": "Bouncer Club"
+  },
+  {
+    "q": "Something Fishy",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Tokaka",
+    "z": "Windurst Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "70 gil"
+  },
+  {
+    "q": "The Potential Within",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Jaucribaix",
+    "z": "Norg",
+    "fame": "Tenshodo Unknown",
+    "desc": "",
+    "r": "Grants the Great Katana weaponskill Tachi: Kasya."
+  },
+  {
+    "q": "The Prankster",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Ahaadah",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Map of Caedarva Mire"
+  },
+  {
+    "q": "The Promise",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "Star Onion Brigade Quest #7",
+    "r": "Promise Badge"
+  },
+  {
+    "q": "The Puppet Master",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Windurst Walls",
+    "fame": "",
+    "desc": "Summoner AF1",
+    "r": "Kukulcan's Staff"
+  },
+  {
+    "q": "To Catch a Falling Star",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Sigismund",
+    "z": "Windurst Port",
+    "fame": "Any",
+    "desc": "",
+    "r": "Fish Scale Shield"
+  },
+  {
+    "q": "Truth, Justice, and the Onion Way!",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kohlo-Lakolo",
+    "z": "Windurst Port",
+    "fame": "Any",
+    "desc": "Star Onion Brigade Quest #1",
+    "r": "Justice Badge"
+  },
+  {
+    "q": "The Requiem",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Bki Tbujhja",
+    "z": "Jeuno Lower",
+    "fame": "",
+    "desc": "Bard AF2",
+    "r": "Choral Slippers"
+  },
+  {
+    "q": "The Rescue",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Thunder Hawk",
+    "z": "Selbina",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "3000 gil, Map of the Ranguemont Pass"
+  },
+  {
+    "q": "Wild Card",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Honoi-Gomoi",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "Star Onion Brigade Quest #6",
+    "r": "8000 gil"
+  },
+  {
+    "q": "Wonder Wands",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Hakkuru-Rinkuru",
+    "z": "Windurst Port",
+    "fame": "Unknown",
+    "desc": "Orastery Quest #3",
+    "r": "4800 gil, New Moon Armlets"
+  },
+  {
+    "q": "The Road to Aht Urhgan",
+    "t": "General",
+    "tag": "",
+    "npc": "Faursel",
+    "z": "Jeuno Lower",
+    "fame": "",
+    "desc": "",
+    "r": "Boarding Permit, Map of Wajaom Woodlands\nProvides ferry access between Mhaura and Aht Urhgan."
+  },
+  {
+    "q": "The Root of the Problem",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Chumimi",
+    "z": "Heavens Tower",
+    "fame": "",
+    "desc": "Black Mage AF3",
+    "r": "Wizard's Petasos"
+  },
+  {
+    "q": "The Rumor",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Novalmauge",
+    "z": "Bostaunieux Oubliette",
+    "fame": "3",
+    "desc": "Novalmauge Quest #1",
+    "r": "Scroll of Drain"
+  },
+  {
+    "q": "The Sacred Katana",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Jaucribaix",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Samurai AF1",
+    "r": "Magoroku"
+  },
+  {
+    "q": "The Sahagin's Stash",
+    "t": "Spell",
+    "tag": "SPELL",
+    "npc": "Laisrean",
+    "z": "Norg",
+    "fame": "Tenshodo 4",
+    "desc": "",
+    "r": "Scroll of Utsusemi: Ichi"
+  },
+  {
+    "q": "The Sand Charm",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Celestina",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Map of the Bostaunieux Oubliette"
+  },
+  {
+    "q": "Blast From the Past",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Koru-Moru",
+    "z": "Windurst Walls",
+    "fame": "Unknown",
+    "desc": "Koru-Moru Quest #2",
+    "r": "Great Club"
+  },
+  {
+    "q": "Curses, Foiled Again!",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Shantotto",
+    "z": "Windurst Walls",
+    "fame": "Any",
+    "desc": "Shantotto Quest #1",
+    "r": "Brass Rod"
+  },
+  {
+    "q": "Curses, Foiled...Again!?",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Shantotto",
+    "z": "Windurst Walls",
+    "fame": "2",
+    "desc": "Shantotto Quest #2",
+    "r": "Misery Staff"
+  },
+  {
+    "q": "Mandragora-Mad",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Yoran-Oran",
+    "z": "Windurst Walls",
+    "fame": "Any",
+    "desc": "",
+    "r": "120 gil\nReward of 120-5500 gil, depending on the item delivered."
+  },
+  {
+    "q": "Star Struck",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Koru-Moru",
+    "z": "Windurst Walls",
+    "fame": "2",
+    "desc": "Koru-Moru Quest #1",
+    "r": "Compound Eye Circlet"
+  },
+  {
+    "q": "The Postman Always K.O.'s Twice",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ambrosius",
+    "z": "Windurst Walls",
+    "fame": "Any",
+    "desc": "Windurst Walls Assistance Quest #1",
+    "r": "500 gil\nReward of 50-500 gil: 50 gil for one, 150 gil for two, 250 gil for three, 500 gil for all four."
+  },
+  {
+    "q": "A Crisis in the Making",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ranpi-Monpi",
+    "z": "Windurst Waters",
+    "fame": "2",
+    "desc": "",
+    "r": "400 gil"
+  },
+  {
+    "q": "The Talekeeper's Gift",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Deidogg",
+    "z": "Bastok Mines",
+    "fame": "",
+    "desc": "Warrior AF3",
+    "r": "Fighter's Lorica"
+  },
+  {
+    "q": "The Talekeeper's Truth",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Deidogg",
+    "z": "Bastok Mines",
+    "fame": "",
+    "desc": "Warrior AF2",
+    "r": "Fighter's Calligae"
+  },
+  {
+    "q": "The Tenshodo Showdown",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Nanaa Mihgo",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Thief AF1",
+    "r": "Marauder's Knife"
+  },
+  {
+    "q": "The Three Magi",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Chumimi",
+    "z": "Heavens Tower",
+    "fame": "",
+    "desc": "Black Mage AF1",
+    "r": "Casting Wand"
+  },
+  {
+    "q": "A Feather In One's Cap",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Baren-Moren",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Baren-Moren Quest #2",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Blue Ribbon Blues",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kerutoto",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Rhinostery Quest #4",
+    "r": "3600 gil, Blue Ribbon"
+  },
+  {
+    "q": "Chasing Tales",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Tosuka-Porika",
+    "z": "Windurst Waters",
+    "fame": "3",
+    "desc": "Optistery Book Quest #2",
+    "r": "2800 gil"
+  },
+  {
+    "q": "The Walls of Your Mind",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Oggbi",
+    "z": "Bastok Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Hand-to-Hand weaponskill Asuran Fists."
+  },
+  {
+    "q": "The Wayward Automaton",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Iruki-Waraki",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Puppetmaster AF1",
+    "r": "Turbo Animator"
+  },
+  {
+    "q": "The Weight of Your Limits",
+    "t": "Weaponskill",
+    "tag": "WS",
+    "npc": "Iron Eater",
+    "z": "Metalworks",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Great Axe weaponskill Steel Cyclone."
+  },
+  {
+    "q": "Early Bird Catches the Bookworm",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Tosuka-Porika",
+    "z": "Windurst Waters",
+    "fame": "2",
+    "desc": "Optistery Book Quest #1",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Eco-Warrior (Windurst)",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Lumomo",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "5000 gil, Dragon Chronicles"
+  },
+  {
+    "q": "Food For Thought",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kerutoto",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "Rhinostery Quest #1",
+    "r": "440 gil\nGil reward is between 120-440 gil, depending on if the quest is completed fully or not."
+  },
+  {
+    "q": "Hat in Hand",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Baren-Moren",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "Baren-Moren Quest #1",
+    "r": "200 gil, Windshear Hat\nBetween 50-200 gil is rewarded based on the number of NPCs spoken to; the hat is rewarded when the quest is completed properly."
+  },
+  {
+    "q": "Heaven Cent",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ropunono",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Optistery Quest #4",
+    "r": "4800 gil"
+  },
+  {
+    "q": "To Bee or not to Bee?",
+    "t": "General",
+    "tag": "",
+    "npc": "Raamimi",
+    "z": "Windurst Walls",
+    "fame": "2",
+    "desc": "Windurst Walls Assistance Quest #2",
+    "r": "Mulsum\nReward of 3 Mulsum."
+  },
+  {
+    "q": "In a Pickle",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Chamama",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "200 gil, Bone Hairpin\nReward of Bone Hairpin on the first completion; reward of 200 gil for each following completion."
+  },
+  {
+    "q": "Let Sleeping Dogs Lie",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Paku-Nakku",
+    "z": "Windurst Waters",
+    "fame": "4",
+    "desc": "",
+    "r": "Hypno Staff"
+  },
+  {
+    "q": "Making Headlines",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Naiko-Paneiko",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "Tarutaru Times Quest #1",
+    "r": "560 gil"
+  },
+  {
+    "q": "Totoroon's Treasure Hunt",
+    "t": "General",
+    "tag": "",
+    "npc": "",
+    "z": "Nashmau",
+    "fame": "",
+    "desc": "",
+    "r": ""
+  },
+  {
+    "q": "Transformations",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Waoud",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Blue Mage AF3",
+    "r": "Magus Keffiyeh"
+  },
+  {
+    "q": "Trial by Earth",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Juroro",
+    "z": "Bastok Port",
+    "fame": "6",
+    "desc": "",
+    "r": "10000 gil, Desert Light, Earth Belt, Earth Ring, Titan's Cudgel\nReward is either: one of the items listed; 10000 gil; or the ability to summon Titan."
+  },
+  {
+    "q": "Trial by Fire",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Ronta-Onta",
+    "z": "Kazham",
+    "fame": "6",
+    "desc": "",
+    "r": "10000 gil, Egil's Torch, Fire Belt, Fire Ring, Ifrit's Blade\nReward is either: one of the items listed; 10000 gil; or the ability to summon Ifrit."
+  },
+  {
+    "q": "Trial by Ice",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Gulmama",
+    "z": "San d'Oria North",
+    "fame": "6",
+    "desc": "",
+    "r": "10000 gil, Ice Belt, Ice Ring, Rust 'B' Gone, Shiva's Claws\nReward is either: one of the items listed; 10000 gil; or the ability to summon Shiva."
+  },
+  {
+    "q": "Trial by Lightning",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Ripapa",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "10000 gil, Elder Branch, Lightning Belt, Lightning Ring, Ramuh's Staff\nReward is either: one of the items listed; 10000 gil; or the ability to summon Ramuh."
+  },
+  {
+    "q": "Trial by Water",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Edal-Tahdal",
+    "z": "Norg",
+    "fame": "Tenshodo 4",
+    "desc": "",
+    "r": "10000 gil, Eye of Nept, Leviathan's Rod, Water Belt, Water Ring\nReward is either: one of the items listed; 10000 gil; or the ability to summon Leviathan."
+  },
+  {
+    "q": "Trial by Wind",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Agado-Pugado",
+    "z": "Rabao",
+    "fame": "5",
+    "desc": "",
+    "r": "10000 gil, Bubbly Water, Garuda's Dagger, Wind Belt, Wind Ring\nReward is either: one of the items listed; 10000 gil; or the ability to summon Garuda."
+  },
+  {
+    "q": "Trial-Size Trial by Earth",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Ferrol",
+    "z": "Bastok Port",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Titan summon."
+  },
+  {
+    "q": "Trial-Size Trial by Fire",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Dodmos",
+    "z": "Kazham",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Ifrit summon."
+  },
+  {
+    "q": "Trial-Size Trial by Ice",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Castilchat",
+    "z": "San d'Oria North",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Shiva summon."
+  },
+  {
+    "q": "Trial-Size Trial by Lightning",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Lacia",
+    "z": "Mhaura",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Ramuh summon."
+  },
+  {
+    "q": "Trial-Size Trial by Water",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Verctissa",
+    "z": "Norg",
+    "fame": "Tenshodo Unknown",
+    "desc": "",
+    "r": "Grants the Leviathan summon."
+  },
+  {
+    "q": "Trial-Size Trial by Wind",
+    "t": "Avatar",
+    "tag": "UNLOCK",
+    "npc": "Rahi Fohlatti",
+    "z": "Rabao",
+    "fame": "Unknown",
+    "desc": "",
+    "r": "Grants the Garuda summon."
+  },
+  {
+    "q": "Overnight Delivery",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kenapa-Keppa",
+    "z": "Windurst Waters",
+    "fame": "3",
+    "desc": "Rhinostery Quest #2",
+    "r": "Power Gi"
+  },
+  {
+    "q": "True Strength",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ayame",
+    "z": "Metalworks",
+    "fame": "",
+    "desc": "Monk AF3",
+    "r": "Temple Hose"
+  },
+  {
+    "q": "True Will",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Ryoma",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Ninja AF3",
+    "r": "Ninja Chainmail"
+  },
+  {
+    "q": "Reap What You Sow",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Mashuu-Ajuu",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "700 gil, Stationery Set\nReward of the Stationary Set, and 500 gil for a Sobbing Fungus, 700 gil for a Deathball."
+  },
+  {
+    "q": "Say It With Flowers",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Moari-Kaaori",
+    "z": "Windurst Waters",
+    "fame": "2",
+    "desc": "",
+    "r": "400 gil, Iron Sword\nIron Sword is the reward the first time it is completed properly; 400 gil for repeat; 100 gil if not completed properly."
+  },
+  {
+    "q": "Scooped!",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Naiko-Paneiko",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Tarutaru Times Quest #2",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Teacher's Pet",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Moreno-Toeno",
+    "z": "Windurst Waters",
+    "fame": "Any",
+    "desc": "",
+    "r": "250 gil"
+  },
+  {
+    "q": "Two Horn the Savage",
+    "t": "General",
+    "tag": "",
+    "npc": "Milazahn",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "",
+    "r": "Imperial Mythril Piece"
+  },
+  {
+    "q": "Unbridled Passion",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Perih Vashai",
+    "z": "Windurst Woods",
+    "fame": "",
+    "desc": "Ranger AF3",
+    "r": "Hunter's Socks, Ice Arrow"
+  },
+  {
+    "q": "Under Oath",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "",
+    "z": "Chateau d'Oraguille",
+    "fame": "",
+    "desc": "Paladin AF3",
+    "r": "Gallant Surcoat"
+  },
+  {
+    "q": "Toraimarai Turmoil",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ohbiru-Dohbiru",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Rhinostery Quest #5",
+    "r": "4500 gil\nThe Certificate and title are obtained when starting the quest, the gil from completing it."
+  },
+  {
+    "q": "Tuning In",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Leepe-Hoppe",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Tuning Quest #1",
+    "r": "4000 gil"
+  },
+  {
+    "q": "Tuning Out",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Leepe-Hoppe",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Tuning Quest #2",
+    "r": "6000 gil, Cache-nez"
+  },
+  {
+    "q": "Water Way To Go!",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Ohbiru-Dohbiru",
+    "z": "Windurst Waters",
+    "fame": "Unknown",
+    "desc": "Rhinostery Quest #3",
+    "r": "900 gil"
+  },
+  {
+    "q": "Unforgiven",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Elysia",
+    "z": "Tavnazian Safehold",
+    "fame": "",
+    "desc": "",
+    "r": "Map of Tavnazia"
+  },
+  {
+    "q": "Wondering Minstrel",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Jatan-Paratan",
+    "z": "Windurst Waters",
+    "fame": "6",
+    "desc": "",
+    "r": "Faerie Piccolo"
+  },
+  {
+    "q": "Unlisted Qualities",
+    "t": "General",
+    "tag": "",
+    "npc": "Luto Mewrilah",
+    "z": "Jeuno Upper",
+    "fame": "Any",
+    "desc": "NPC Fellow Quest #1",
+    "r": "Silver Ingot"
+  },
+  {
+    "q": "Vanishing Act",
+    "t": "General",
+    "tag": "",
+    "npc": "Ulamaal",
+    "z": "Aht Urhgan Whitegate",
+    "fame": "",
+    "desc": "Epicureans Quest #2",
+    "r": "Imperial Silver Piece\nReward of random Cooking recipes, taught by Ulamaal and Qutiba."
+  },
+  {
+    "q": "A Greeting Cardian",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kororo",
+    "z": "Windurst Woods",
+    "fame": "4",
+    "desc": "Manustery Quest #2",
+    "r": "Tourmaline Earring"
+  },
+  {
+    "q": "Can Cardians Cry?",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Apururu",
+    "z": "Windurst Woods",
+    "fame": "Unknown",
+    "desc": "Manustery Quest #5",
+    "r": "5000 gil"
+  },
+  {
+    "q": "Chocobilious",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kuoh Rhel",
+    "z": "Windurst Woods",
+    "fame": "2",
+    "desc": "Kuoh Rhel Quest #1",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Creepy Crawlies",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Illu Bohjaa",
+    "z": "Windurst Woods",
+    "fame": "Any",
+    "desc": "",
+    "r": "600 gil"
+  },
+  {
+    "q": "In a Stew",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kuoh Rhel",
+    "z": "Windurst Woods",
+    "fame": "4",
+    "desc": "Kuoh Rhel Quest #2",
+    "r": "900 gil"
+  },
+  {
+    "q": "Legendary Plan B",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Kopuro-Popuro",
+    "z": "Windurst Woods",
+    "fame": "Unknown",
+    "desc": "Manustery Quest #3",
+    "r": "700 gil, Scentless Armlets"
+  },
+  {
+    "q": "Mihgo's Amigo",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nanaa Mihgo",
+    "z": "Windurst Woods",
+    "fame": "Tenshodo Any",
+    "desc": "Cat Burglar Quest #1",
+    "r": "200 gil"
+  },
+  {
+    "q": "Paying Lip Service",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Tapoh Lihzeh",
+    "z": "Windurst Woods",
+    "fame": "Any",
+    "desc": "",
+    "r": "150 gil\nReward of 150 gil for 3 Beehive Chips; 200 gil for 2 Remi Shells."
+  },
+  {
+    "q": "What Friends Are For",
+    "t": "Map",
+    "tag": "UNLOCK",
+    "npc": "Tsetseroon",
+    "z": "Nashmau",
+    "fame": "",
+    "desc": "",
+    "r": "Imperial Bronze Piece, Map of Aydeewa Subterrane"
+  },
+  {
+    "q": "Whence Blows the Wind",
+    "t": "Level Break",
+    "tag": "UNLOCK",
+    "npc": "Maat",
+    "z": "Ru'Lude Gardens",
+    "fame": "Any",
+    "desc": "Level Cap (Level 60) Quest #3",
+    "r": "Raises the level cap of the character to 65."
+  },
+  {
+    "q": "Rock Racketeer",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Nanaa Mihgo",
+    "z": "Windurst Woods",
+    "fame": "3",
+    "desc": "Cat Burglar Quest #2",
+    "r": "2100 gil"
+  },
+  {
+    "q": "Wings of Gold",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Brutus",
+    "z": "Jeuno Upper",
+    "fame": "",
+    "desc": "Beastmaster AF1",
+    "r": "Barbaroi Axe"
+  },
+  {
+    "q": "Wish Upon a Star",
+    "t": "General",
+    "tag": "",
+    "npc": "Zacc",
+    "z": "Bastok Markets",
+    "fame": "5",
+    "desc": "",
+    "r": "Cactus Stems\nFour bags of Cactus Stems are rewarded."
+  },
+  {
+    "q": "The All-New C-2000",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kopuro-Popuro",
+    "z": "Windurst Woods",
+    "fame": "Any",
+    "desc": "Manustery Quest #1",
+    "r": "200 gil"
+  },
+  {
+    "q": "The All-New C-3000",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Kopuro-Popuro",
+    "z": "Windurst Woods",
+    "fame": "Unknown",
+    "desc": "Manustery Quest #4",
+    "r": "600 gil"
+  },
+  {
+    "q": "The Amazin' Scorpio",
+    "t": "General",
+    "tag": "GIL",
+    "npc": "Soni-Muni",
+    "z": "Windurst Woods",
+    "fame": "2",
+    "desc": "",
+    "r": "1500 gil"
+  },
+  {
+    "q": "Twinstone Bonding",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "Gioh Ajihri",
+    "z": "Windurst Woods",
+    "fame": "3",
+    "desc": "",
+    "r": "900 gil, Wrapped Bow\nReward of a Wrapped Bow the first time the quest is completed; 900 gil for each completion thereafter."
+  },
+  {
+    "q": "Yomi Okuri",
+    "t": "Artifact",
+    "tag": "AF",
+    "npc": "Gilgamesh",
+    "z": "Norg",
+    "fame": "",
+    "desc": "Samurai AF2",
+    "r": "Myochin Sune-Ate"
+  },
+  {
+    "q": "Wrath of the Opo-opos",
+    "t": "General",
+    "tag": "GEAR",
+    "npc": "",
+    "z": "Yuhtunga Jungle",
+    "fame": "",
+    "desc": "",
+    "r": "Opo-opo Necklace"
+  },
+  {
+    "q": "Your Crystal Ball",
+    "t": "General",
+    "tag": "",
+    "npc": "Kurou-Morou",
+    "z": "Jeuno Lower",
+    "fame": "2",
+    "desc": "Kurou-Morou Quest #1",
+    "r": "Grants the ability to have your fortune told by Kurou-Morou."
+  }
+]
